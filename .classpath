@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="tmsrip/src"/>
+	<classpathentry kind="lib" path="tmsrip/dist/lib/commons-cli-1.3.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="tmsrip/dist/lib/commons-cli-1.3.1.jar"/>
+	<classpathentry kind="lib" path="tmsrip/dist/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="tmsrip/dist/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="tmsrip/dist/lib/fluent-hc-4.5.2.jar"/>
+	<classpathentry kind="lib" path="tmsrip/dist/lib/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="tmsrip/dist/lib/httpclient-cache-4.5.2.jar"/>
+	<classpathentry kind="lib" path="tmsrip/dist/lib/httpclient-win-4.5.2.jar"/>
+	<classpathentry kind="lib" path="tmsrip/dist/lib/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="tmsrip/dist/lib/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="tmsrip/dist/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="tmsrip/dist/lib/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="tmsrip/dist/tmsrip.jar"/>
+	<classpathentry kind="output" path="tmsrip/build/classes"/>
+</classpath>
